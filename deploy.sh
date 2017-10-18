@@ -3,6 +3,10 @@
 cp -R ./* /var/www/html/
 rm /var/www/html/deploy.sh
 
+cp -R ./* /mnt/c/Users/smccaffr/Documents/
+rm /mnt/c/Users/smccaffr/Documents/deploy.sh
+
+
 #another flag would be rm -rf whole site
 #since the above copy will leave behind 
 #anything not overwritten
