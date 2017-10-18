@@ -15,6 +15,15 @@
   margin-bottom: 1.2rem;
 }
 
+/* Mine
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.mine {
+  background-image: url('../images/values-bg.jpg');
+  background-size: cover;
+  color: #fff;
+  padding-bottom: 5rem;
+}
+
 /* Hero
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .phones {
