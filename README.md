@@ -7,12 +7,16 @@ The download includes Skeleton's CSS, Normalize CSS as a reset, a sample favicon
 
 ```
 Skeleton/
-├── index.html
 ├── css/
 │   ├── normalize.min.css
 │   └── skeleton.css
-└── images/
-    └── favicon.ico
-
+├── examples/
+│   └── landing/
+│   		├── css
+│   		├── images
+│   		└── index.html
+├── images/
+│   └── favicon.ico
+└─── index.html
 ```
 
