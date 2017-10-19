@@ -12,4 +12,4 @@ rm /mnt/c/Users/smccaffr/Documents/deploy.sh
 #anything not overwritten
 
 #this doesn't seem necessary but could be a good flag option
-service apache2 restart
+#service apache2 restart
