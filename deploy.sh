@@ -1,9 +1,10 @@
 #!/bin/sh
 
+rm -rf /var/www/html/*
 cp -R ./* /var/www/html/
 rm /var/www/html/deploy.sh
 
-cp -R ./* /mnt/c/Users/smccaffr/Documents/
+cp -R ./* /mnt/c/Users/smccaffr/Documents/MySite/
 rm /mnt/c/Users/smccaffr/Documents/deploy.sh
 
 
